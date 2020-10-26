@@ -2,7 +2,8 @@ postdata=
 (
 	{
 		"content": "<@&475545202124390403>",
-		"embeds": [
+		"embeds": 
+		[
 			{ 
 			"title": "Chambers of Xeric",
 			"description": "%EventChoice% Mass at %setTime%\nEvent being hosted by <@%ids%>\n\n Requirements to participate:\n80 Magic\n80 range\nSome basic gear like in the picture below. Any questions about gear or whatever, post them in <#475550360832966656>",
