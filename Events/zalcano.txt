@@ -2,7 +2,8 @@ postdata=
 (
     {
         "content": "@everyone",
-        "embeds": [
+        "embeds": 
+	[
 			{ 
 			"title": "Zalcano",
 			"description": "%EventChoice% Mass at %setTime%\nEvent being hosted by <@%ids%>\n\n Requirements to participate:\nSong Of The Elves\n\nPerfect time to come get the pet!\nBIS gear setup attached below",
