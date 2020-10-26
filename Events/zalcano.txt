@@ -1,0 +1,22 @@
+postdata= 
+(
+    {
+        "content": "@everyone",
+        "embeds": [
+			{ 
+			"title": "Zalcano",
+			"description": "%EventChoice% Mass at %setTime%\nEvent being hosted by <@%ids%>\n\n Requirements to participate:\nSong Of The Elves\n\nPerfect time to come get the pet!\nBIS gear setup attached below",
+			"url": "https://oldschool.runescape.wiki/w/Zalcano",
+			"color": 16714240,
+			"thumbnail": 
+				{
+				"url": "https://oldschool.runescape.wiki/images/thumb/3/30/Zalcano.png/200px-Zalcano.png?6244d"
+				},
+			"image": 
+				{
+				"url": "https://media.discordapp.net/attachments/594151527199801360/719942986670145607/zalcano.png"
+				}
+			}
+        ]
+    }
+)

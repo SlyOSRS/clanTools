@@ -1,0 +1,18 @@
+postdata= 
+(
+	{
+		"content": "@everyone",
+		"embeds": [
+			{ 
+			"title": "Corporeal Beast %idStaff%",
+			"description": "%EventChoice% Mass at %setTime%\nEvent being hosted by <@%ids%>\n\n Equipment:\n- Zamorak spear\n - Def-reducing spec weapon (DWH>BGS>Arclight if nobody can collat you)\n- Karils/Bandos/Void\n- Cannons optional\n\nRules:\n1) No ranging!\n2) Use both spec reducing special attacks every kill\n3) Pool (83 con) required unless someone is willing to let you use theirs.\n4) Drops valued at 1m+ must be traded to Bronze+ rank.\n",
+			"url": "https://oldschool.runescape.wiki/w/Corporeal_Beast",
+			"color": 13284465,
+			"thumbnail": 
+				{
+				"url": "https://oldschool.runescape.wiki/images/thumb/5/5c/Corporeal_Beast.png/270px-Corporeal_Beast.png?52ebb"
+				}
+			}
+		]
+	}
+)
