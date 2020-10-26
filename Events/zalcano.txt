@@ -1,4 +1,3 @@
-postdata= 
 (
     {
         "content": "@everyone",
