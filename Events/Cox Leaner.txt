@@ -1,0 +1,20 @@
+{
+        "content": "<@&475545202124390403> <@&526693408006209536>",
+        "embeds": 
+        [
+          { 
+            "title": "Chambers of Xeric Leaner Raid",
+            "description": "%EventChoice% friendly raid at %setTime%\nEvent being hosted by <@%ids%>\n\n Requirements to participate:\n80 Magic\n80 range\nSome basic gear like in the picture below. Any questions about gear or whatever, post them in <#475550360832966656>",
+            "url": "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+            "color": 65320,
+            "thumbnail": 
+              {
+                "url": "https://oldschool.runescape.wiki/images/thumb/d/d3/Great_Olm.png/300px-Great_Olm.png?f1081"
+              },
+            "image": 
+              {
+                "url": "https://media.discordapp.net/attachments/594151527199801360/691362190632026152/image0.png"
+              }
+          }
+        ]
+}
