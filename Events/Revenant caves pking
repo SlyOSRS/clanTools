@@ -1,0 +1,21 @@
+{
+    "content": "@everyone",
+    "embeds": 
+	[
+		{ 
+		"title": "Revenant caves pking",
+		"description": "%EventChoice% pking trip at %setTime%\nEvent being hosted by <@%ids%>\n\n- A skull is expected, this only works if we all pile the non clan members together.\n- Drops under 1M Split each are FFA\nLets have some fun and make some cash.\n- Support roles such as Blitz/D spear/D Scim are encouraged and appreciated!",
+		
+		"url": "https://oldschool.runescape.wiki/w/Revenant_Caves",
+		"color": 8028539,
+		"thumbnail": 
+			{
+			"url": "https://oldschool.runescape.wiki/images/f/fd/Ancient_emblem_detail.png?f548b"
+			},
+		"image": 
+			{
+			"url": "https://media.discordapp.net/attachments/594151527199801360/691290429366337607/unknown.png"
+			}
+		}
+    ]
+}
