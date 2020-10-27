@@ -1,0 +1,21 @@
+{
+    "content": "@everyone",
+    "embeds": 
+	[
+		{ 
+		"title": "%EventChoice%",
+		"description": "%EventChoice% event at %setTime%\nEvent being hosted by <@%ids%>\n\n Please follow general gear advice below, substitutes for dragon claws are warhammer or SGS.\n**___Drops will be split among all present.___**\nPrioritize Husks/Parasites/Sleepwalkers and Prayers over doing DPS to the boss",
+		
+		"url": "https://oldschool.runescape.wiki/w/Dagannoth_Kings",
+		"color": 1,
+		"thumbnail": 
+			{
+				"url": "https://i.imgur.com/iRs19NL.png"
+			},
+		"image": 
+			{
+				"url": "https://i.imgur.com/g2dUwkO.png"
+			}
+		}
+    ]
+}
