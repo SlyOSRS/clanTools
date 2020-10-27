@@ -1,0 +1,21 @@
+{
+    "content": "@everyone",
+    "embeds": 
+	[
+		{ 
+		"title": "Wildy Boss Pking",
+		"description": "%EventChoice% at %setTime%\nEvent being hosted by <@%ids%>\n\n Only bring what you are willing to risk\nListen to callouts - focus 1 person at a time\nVoice chat mandatory",
+		
+		"url": "https://oldschool.runescape.wiki/w/Player_killing",
+		"color": 1,
+		"thumbnail": 
+			{
+			"url": "http://clipart-library.com/img/831480.png"
+			},
+		"image": 
+			{
+			"url": "https://i.imgur.com/Fid8mNd.png"
+			}
+		}
+    ]
+}
