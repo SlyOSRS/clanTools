@@ -1,0 +1,21 @@
+{
+    "content": "@everyone",
+    "embeds": 
+	[
+		{ 
+		"title": "%EventChoice%",
+		"description": "%EventChoice% event at %setTime%\nEvent being hosted by <@%ids%>\n\n **Learner Theatre of Blood event**\n\n **Requirements :**\n :small_blue_diamond: __94 Magic__ (optional but strongly recommended)\n :small_blue_diamond: __90+ Attack/Strength/Range__\n :small_blue_diamond: __75+ Defence__\n\nWe will be bringing 1 learner with a group of experienced raiders to help you learn the ropes of that raid. Before joining in, you must have read all the information in the channel <#734791063302176788> (give yourself the Tob role in <#584543139642081299> and watched a few guides to have a basic understanding of what we'll be talking about when explaining the different rooms.\n\nTo join this learner raid, react to this message with <:Scythe:584324071282442240> If we have multiple people who match our criterias to learn ToB and meet the basic gear requirements, there will be a queue during the event. We will do our best to give at least 1 or 2 kcs to the learners so they can start grinding it on their own afterwards.",
+		
+		"url": "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+		"color": 1,
+		"thumbnail": 
+			{
+				"url": "https://i.imgur.com/yoCwPvZ.png"
+			},
+		"image": 
+			{
+				"url": "https://i.imgur.com/3r4ZBiz.png"
+			}
+		}
+    ]
+}
